@@ -42,9 +42,9 @@ public class EmployeeMain {
 		System.out.println(empService.getAppraisalDetails(eBean));
 		
 		System.out.println("THIS");
-		System.out.println("IS MAIN");
-		System.out.println("BRANCH IN");
-		System.out.println("GITHUB");
+		System.out.println("IS");
+		System.out.println("APPRAISAL");
+		System.out.println("CALCULATOR");
 	}
 
 }
