@@ -40,6 +40,11 @@ public class EmployeeMain {
 
 		System.out.println(eBean);
 		System.out.println(empService.getAppraisalDetails(eBean));
+		
+		System.out.println("THIS");
+		System.out.println("IS");
+		System.out.println("APPRAISAL");
+		System.out.println("CALCULATOR");
 	}
 
 }
